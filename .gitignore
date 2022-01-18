@@ -2,3 +2,5 @@ auth/
 __pycache__
 */__pycache__
 */*/__pycache__
+data/raw/glove.6B.100d.txt
+notebook/hyperband
